@@ -1,6 +1,6 @@
 Kepper App v 1.0
 
-A very humble note keeper application, created in react, css, nodejs and sqlite3 :)
+A very humble note keeper application, built in react, css, nodejs and sqlite3 :)
 
 Intructions:
 
